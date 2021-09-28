@@ -11,7 +11,7 @@
 
 3. ¿Qué es una aplicación web?
 
-   Una aplicación web es una herramienta que los usuarios puedern usar mediante un servidor web a través de internet o navegador, es un software desarrollado con tecnología web. También és considerado el núcleo del negocio de la empresa.
+   Una aplicación web es una herramienta que los usuarios pueden usar mediante un servidor web a través de internet o navegador, es un software desarrollado con tecnología web. También és considerado el núcleo del negocio de la empresa.
 
 4. ¿Qué es una herramienta ofimática?
 
